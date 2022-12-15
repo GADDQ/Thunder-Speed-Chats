@@ -7,7 +7,7 @@ Please notice that Thunder Speed Chats is only support IPv4 connections.It will 
 请注意，极简启动器只支持IPv4网络。我们***永远***都不会支持IPv6，因为该程序已经停止支持和更新了。
 
 Server port is 25560.
-服务器端口是25560。
+服务器端口为25560。
 
 This tools use 易语言 / e-language to make.
 此工具使用易语言制作。
